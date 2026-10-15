@@ -4,4 +4,10 @@ This repository contains a data-driven analysis of the Suez Canal and its role i
 The goal of this repository is to provide a clear, research-oriented overview of the Suez Canal as a critical global chokepoint, supported by aggregated statistics and historical trends that can be reused for academic, economic, or policy-focused work.
 
 
-# disclaimer : THIS PROJECT DOES NOT USE REAL DATA INSTEAD A SIMULATED DATA IS USED SINCE REAL DATA IS HARD TO COME BY.
+
+
+
+
+
+
+# DISCLAIMER : THIS PROJECT DOES NOT USE REAL DATA INSTEAD A SIMULATED DATA IS USED SINCE REAL DATA IS HARD TO COME BY.
